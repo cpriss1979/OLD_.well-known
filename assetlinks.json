@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "io.glowcode.threesides",
+      "package_name": "io.github.cpriss1979.twa",
       "sha256_cert_fingerprints": [
-        "60:09:3E:67:CB:12:87:0D:D0:08:8A:9E:CF:FF:18:11:15:70:46:D0:11:C8:65:B4:80:F3:A8:13:62:FA:B1:08"
+        "D6:F7:88:7F:D3:06:C5:08:28:7F:86:A2:0F:72:D8:AA:DF:41:25:1C:7D:B3:2C:1A:58:5F:27:B2:29:78:30:95"
       ]
     }
   }
