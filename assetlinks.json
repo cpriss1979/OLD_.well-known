@@ -8,15 +8,5 @@
         "D6:F7:88:7F:D3:06:C5:08:28:7F:86:A2:0F:72:D8:AA:DF:41:25:1C:7D:B3:2C:1A:58:5F:27:B2:29:78:30:95"
       ]
     }
-  },
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "io.github.cpriss1979.twa",
-      "sha256_cert_fingerprints": [
-        "76:33:1B:08:3F:FC:46:AB:A6:DF:1B:56:0D:D6:E7:49:A4:82:A6:2F:B2:52:68:DB:27:98:6F:2F:C1:5F:58:3A"
-      ]
-    }
   }
 ]
